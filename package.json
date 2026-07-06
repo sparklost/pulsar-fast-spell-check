@@ -1,0 +1,25 @@
+{
+  "name": "fast-spell-check",
+  "main": "./lib/main",
+  "version": "1.0.0",
+  "description": "High-performance spell checker",
+  "repository": "https://github.com/sparklost/pulsar-fast-spell-check",
+  "license": "MIT",
+  "bugs": "https://github.com/sparklost/pulsar-fast-spell-check/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": {
+    "spell-check"
+  }
+  "consumedServices": {
+    "minimap": {
+      "versions": {
+        "^1.0.0": "consumeMinimapService"
+      }
+    }
+  },
+  "activationEvents": [
+    "atom-workspace:component-did-attach"
+  ]
+}

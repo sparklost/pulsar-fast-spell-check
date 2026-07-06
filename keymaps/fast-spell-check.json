@@ -1,0 +1,6 @@
+{
+  "atom-text-editor": {
+    "alt-,": "fast-spell-check:previous-misspelled",
+    "alt-.": "fast-spell-check:next-misspelled"
+  }
+}
