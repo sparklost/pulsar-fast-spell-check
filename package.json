@@ -1,7 +1,7 @@
 {
   "name": "fast-spell-check",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "High-performance spell checker",
   "repository": "https://github.com/sparklost/pulsar-fast-spell-check",
   "license": "MIT",
