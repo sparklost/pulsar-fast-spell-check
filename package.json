@@ -9,9 +9,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "keywords": {
+  "keywords": [
     "spell-check"
-  }
+  ],
   "consumedServices": {
     "minimap": {
       "versions": {
